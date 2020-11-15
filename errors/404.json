@@ -1,0 +1,9 @@
+{
+    "status_code": "400",
+    "status": "Not Found",
+    "error": {
+        "message": "Nginx Not Found Error",
+        "type": "Nginx API Gateway",
+        "code": "400"
+    }
+}

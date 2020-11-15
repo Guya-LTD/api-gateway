@@ -1,0 +1,9 @@
+{
+    "status_code": "502",
+    "status": "Bad Gateway",
+    "error": {
+        "message": "Nginx Bad Gateway Error",
+        "type": "Nginx API Gateway",
+        "code": "502"
+    }
+}
