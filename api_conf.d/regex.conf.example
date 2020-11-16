@@ -1,0 +1,6 @@
+location ~ ^/(branch-service)/ {
+    proxy_pass $branch_upstream;
+    proxy_redirect off;
+
+    proxy_http_version 1.1;
+}
